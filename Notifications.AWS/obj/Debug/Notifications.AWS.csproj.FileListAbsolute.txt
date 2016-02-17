@@ -1,0 +1,9 @@
+D:\FP\Notifications.AWS\bin\Debug\Notifications.AWS.dll
+D:\FP\Notifications.AWS\bin\Debug\Notifications.AWS.pdb
+D:\FP\Notifications.AWS\bin\Debug\AWSSDK.Core.xml
+D:\FP\Notifications.AWS\bin\Debug\AWSSDK.S3.xml
+D:\FP\Notifications.AWS\bin\Debug\AWSSDK.SimpleNotificationService.xml
+D:\FP\Notifications.AWS\bin\Debug\Newtonsoft.Json.xml
+D:\FP\Notifications.AWS\obj\Debug\Notifications.AWS.csprojResolveAssemblyReference.cache
+D:\FP\Notifications.AWS\obj\Debug\Notifications.AWS.dll
+D:\FP\Notifications.AWS\obj\Debug\Notifications.AWS.pdb

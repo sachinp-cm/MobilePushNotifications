@@ -1,0 +1,13 @@
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\Nuvonet.AWS.dll
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\Nuvonet.AWS.pdb
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\AWSSDK.Core.dll
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\AWSSDK.S3.dll
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\AWSSDK.SimpleNotificationService.dll
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\Newtonsoft.Json.dll
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\AWSSDK.Core.xml
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\AWSSDK.S3.xml
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\AWSSDK.SimpleNotificationService.xml
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\bin\Debug\Newtonsoft.Json.xml
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\obj\Debug\Nuvonet.AWS.dll
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\obj\Debug\Nuvonet.AWS.pdb
+C:\NuvonetProjects\nuvonet.data\Nuvonet.AWS\obj\Debug\Nuvonet.AWS.csprojResolveAssemblyReference.cache
